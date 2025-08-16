@@ -35,6 +35,11 @@ achieving:
 
 ![Results](results/plots/results.png)
 
+## 🚀 Run on Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kaleem126/pulse2pressure/blob/master/notebooks/Pluse2Pressure1.ipynb)
+
+Click the badge above to open and run the notebook in Google Colab (no local setup required).
 
 **🛠️ Installation**
 
@@ -163,12 +168,6 @@ The achieved RMSE of 12.5 mmHg demonstrates proof-of-concept for:
 - **Attention mechanisms** for relevant PPG segment focus
 
 - **Cross-population validation** for demographic robustness
-
-## 🚀 Run on Colab
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kaleem126/pulse2pressure/blob/master/notebooks/Pluse2Pressure1.ipynb)
-
-Click the badge above to open and run the notebook in Google Colab (no local setup required).
 
 
 **🤝 Contributing**
