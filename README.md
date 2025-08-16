@@ -166,7 +166,7 @@ The achieved RMSE of 12.5 mmHg demonstrates proof-of-concept for:
 
 ## 🚀 Run on Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kaleem126/pulse2pressure/blob/main/notebooks/Pluse2Pressure1.ipynb.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kaleem126/pulse2pressure/blob/main/notebooks/Pluse2Pressure1.ipynb)
 
 Click the badge above to open and run the notebook in Google Colab (no local setup required).
 
