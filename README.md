@@ -33,7 +33,7 @@ achieving:
 
 **📊 Results**
 
-![Results](results/plots/results.png)
+![Results](results/results.png)
 
 ## 🚀 Run on Colab
 
