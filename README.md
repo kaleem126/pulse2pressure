@@ -41,23 +41,11 @@ achieving:
 
 Click the badge above to open and run the notebook in Google Colab (no local setup required).
 
-**🛠️ Installation**
-
 **Prerequisites**
 
 - Python 3.8+
 
 - CUDA-capable GPU (recommended)
-
-**Setup**
-
-bash
-
-git clone https://github.com/yourusername/pluse2pressure.git
-
-cd pluse2pressure
-
-pip install -r requirements.txt
 
 **📋 Requirements (requirements.txt)**
 
